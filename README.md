@@ -1,5 +1,5 @@
 # Data Analysis Portfolio Projects
-This repository will hold all of the guided and original projects I am working on to explore data analysis and visualization. 
+This repository will demonstrate my growing experience with data analysis through guided and original projects. 
 
 Currently, you may view the following:
 
