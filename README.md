@@ -3,7 +3,7 @@ This repository will hold all of the guided and original projects I am working o
 
 Currently, you may view the following:
 
-<b>Movie Industry Correlation Project</b> </br>
-Tools: Python Jupyter Notebook <br>
-Techniques: Data cleaning, analysis, and visualization using pandas, seaborn, numpy, and matplotlib. </br>
-Dataset: https://www.kaggle.com/datasets/danielgrijalvas/movies?resource=download
+<h2>Movie Industry Correlation Project</h2>
+<b>Tools:</b> Python Jupyter Notebook <br>
+<b>Techniques:</b> Data cleaning, analysis, and visualization using pandas, seaborn, numpy, and matplotlib. </br>
+<b>Dataset:</b> https://www.kaggle.com/datasets/danielgrijalvas/movies?resource=download
