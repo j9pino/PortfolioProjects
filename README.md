@@ -1,5 +1,5 @@
 # Data Analysis Portfolio Projects
-This repository will demonstrate my growing experience with data analysis through guided and original projects. 
+This repository will demonstrate my growing experience with data analysis using various applications and programming languages. 
 
 Currently, you may view the following:
 
