@@ -13,7 +13,12 @@ Currently, you may view the following:
 <b>Techniques:</b> data cleaning, analysis, and visualization using NLTK, lambda, seaborn, and plotly </br>
 <b>Dataset:</b> Tweets with Covid-19 hashtags from July 24, 2020 to August 30, 2020. Provided by a <a href='https://www.coursera.org/projects/sentimental-anlysis-on-covid-19-tweets-using-python'>Coursera guided project</a>.
 
-<h2>TTU Bibliometrics Analysis</h2>
+<h2>Bibliometrics: Data Gathering and Cleaning</h2>
 <b>Tools:</b> Web of Science, Sci2, OpenRefine <br>
-<b>Techniques:</b> .isi file conversion with Sci2, data cleaning with OpenRefine, and visualization with Power BI </br>
+<b>Techniques:</b> .isi file conversion with Sci2, data cleaning with OpenRefine, and basic productivity charts with Power BI </br>
+<b>Dataset:</b> Used Web of Science database to collect 2017-2022 publication data for Tennessee Technological University.
+
+<h2>Bibliometrics: Data Analysis and Presentation</h2>
+<b>Tools:</b> Web of Science, Sci2, Gephi <br>
+<b>Techniques:</b> creation and visualization of co-authorship networks </br>
 <b>Dataset:</b> Used Web of Science database to collect 2017-2022 publication data for Tennessee Technological University.
