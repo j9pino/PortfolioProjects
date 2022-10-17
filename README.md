@@ -15,5 +15,5 @@ Currently, you may view the following:
 
 <h2>TTU Bibliometrics Analysis</h2>
 <b>Tools:</b> Web of Science, Sci2, OpenRefine <br>
-<b>Techniques:</b> research data collection, file conversion, and data cleaning </br>
-<b>Dataset:</b> Used Web of Science database to find 2017-2022 publication and citation data for Tennessee Technological University.
+<b>Techniques:</b> .isi file conversion with Sci2, data cleaning with OpenRefine, and visualization with Power BI </br>
+<b>Dataset:</b> Used Web of Science database to collect 2017-2022 publication data for Tennessee Technological University.
