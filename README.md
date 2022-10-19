@@ -19,6 +19,6 @@ Currently, you may view the following:
 <b>Dataset:</b> Used Web of Science database to collect 2017-2022 publication data for Tennessee Technological University.
 
 <h2>Bibliometrics: Data Analysis and Presentation</h2>
-<b>Tools:</b> Web of Science, Sci2, Gephi <br>
-<b>Techniques:</b> creation and visualization of co-authorship networks </br>
+<b>Tools:</b> Sci2, Gephi, Inkscape <br>
+<b>Techniques:</b> network analysis and pruning with Sci2, visualization with Gephi and Inkscape </br>
 <b>Dataset:</b> Used Web of Science database to collect 2017-2022 publication data for Tennessee Technological University.
