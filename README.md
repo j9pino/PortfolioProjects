@@ -20,5 +20,5 @@ Currently, you may view the following:
 
 <h2>Bibliometrics: Data Analysis and Presentation</h2>
 <b>Tools:</b> Sci2, Gephi, Inkscape <br>
-<b>Techniques:</b> network analysis and pruning with Sci2, visualization with Gephi and Inkscape </br>
+<b>Techniques:</b> network analysis and pruning with Sci2, and visualization with Gephi </br>
 <b>Dataset:</b> Used Web of Science database to collect 2017-2022 publication data for Tennessee Technological University.
