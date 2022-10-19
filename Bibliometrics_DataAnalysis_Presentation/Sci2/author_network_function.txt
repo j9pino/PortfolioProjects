@@ -1,0 +1,3 @@
+node.numberOfWorks = Authors.count
+edge.numberOfCoAuthoredWorks = Authors.count
+node.timescited = Times Cited.sum

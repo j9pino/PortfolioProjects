@@ -1,0 +1,3 @@
+node.numberOfWorks = Research Addresses.count
+node.citationCount = Times Cited.sum
+edge.coAuthorships = Research Addresses.count
