@@ -1,0 +1,2089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+  http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+
+  <!-- prefuse GraphML Writer | Tue Oct 18 16:31:19 EDT 2022 -->
+  <key id="citationcount" for="node" attr.name="citationcount" attr.type="int"/>
+  <key id="label" for="node" attr.name="label" attr.type="string"/>
+  <key id="numberofworks" for="node" attr.name="numberofworks" attr.type="int"/>
+  <key id="coauthorships" for="edge" attr.name="coauthorships" attr.type="int"/>
+  <key id="weight" for="edge" attr.name="weight" attr.type="int"/>
+
+  <graph edgedefault="undirected">
+    <!-- nodes -->
+    <node id="n0">
+      <data key="citationcount">88</data>
+      <data key="label">Virginia Polytech Inst &amp; State Univ</data>
+      <data key="numberofworks">7</data>
+    </node>
+    <node id="n1">
+      <data key="citationcount">300</data>
+      <data key="label">Univ Calif Berkeley</data>
+      <data key="numberofworks">15</data>
+    </node>
+    <node id="n2">
+      <data key="citationcount">359</data>
+      <data key="label">Queens Univ</data>
+      <data key="numberofworks">24</data>
+    </node>
+    <node id="n3">
+      <data key="citationcount">31</data>
+      <data key="label">Case Western Reserve Univ</data>
+      <data key="numberofworks">5</data>
+    </node>
+    <node id="n4">
+      <data key="citationcount">400</data>
+      <data key="label">Pacific Northwest Natl Lab</data>
+      <data key="numberofworks">27</data>
+    </node>
+    <node id="n5">
+      <data key="citationcount">0</data>
+      <data key="label">Natl Crit Inst</data>
+      <data key="numberofworks">9</data>
+    </node>
+    <node id="n6">
+      <data key="citationcount">352</data>
+      <data key="label">South Dakota Sch Mines &amp; Technol</data>
+      <data key="numberofworks">21</data>
+    </node>
+    <node id="n7">
+      <data key="citationcount">0</data>
+      <data key="label">Eugene Oneill Soc</data>
+      <data key="numberofworks">11</data>
+    </node>
+    <node id="n8">
+      <data key="citationcount">194</data>
+      <data key="label">Univ Texas Austin</data>
+      <data key="numberofworks">12</data>
+    </node>
+    <node id="n9">
+      <data key="citationcount">11598</data>
+      <data key="label">Tennessee Technol Univ</data>
+      <data key="numberofworks">1525</data>
+    </node>
+    <node id="n10">
+      <data key="citationcount">0</data>
+      <data key="label">Univ Calgary</data>
+      <data key="numberofworks">2</data>
+    </node>
+    <node id="n11">
+      <data key="citationcount">180</data>
+      <data key="label">Tech Univ</data>
+      <data key="numberofworks">14</data>
+    </node>
+    <node id="n12">
+      <data key="citationcount">48</data>
+      <data key="label">Kennesaw State Univ</data>
+      <data key="numberofworks">14</data>
+    </node>
+    <node id="n13">
+      <data key="citationcount">446</data>
+      <data key="label">Lawrence Berkeley Natl Lab</data>
+      <data key="numberofworks">27</data>
+    </node>
+    <node id="n14">
+      <data key="citationcount">39</data>
+      <data key="label">Sungkyunkwan Univ</data>
+      <data key="numberofworks">15</data>
+    </node>
+    <node id="n15">
+      <data key="citationcount">105</data>
+      <data key="label">Idaho State Univ</data>
+      <data key="numberofworks">11</data>
+    </node>
+    <node id="n16">
+      <data key="citationcount">57</data>
+      <data key="label">Southeastern Louisiana Univ</data>
+      <data key="numberofworks">13</data>
+    </node>
+    <node id="n17">
+      <data key="citationcount">42</data>
+      <data key="label">Hubei Univ Technol</data>
+      <data key="numberofworks">7</data>
+    </node>
+    <node id="n18">
+      <data key="citationcount">233</data>
+      <data key="label">Natl Res Ctr</data>
+      <data key="numberofworks">12</data>
+    </node>
+    <node id="n19">
+      <data key="citationcount">12</data>
+      <data key="label">Clemson Univ</data>
+      <data key="numberofworks">8</data>
+    </node>
+    <node id="n20">
+      <data key="citationcount">341</data>
+      <data key="label">Triangle Univ Nucl Lab</data>
+      <data key="numberofworks">28</data>
+    </node>
+    <node id="n21">
+      <data key="citationcount">355</data>
+      <data key="label">Texas A&amp;m Univ</data>
+      <data key="numberofworks">46</data>
+    </node>
+    <node id="n22">
+      <data key="citationcount">1105</data>
+      <data key="label">Univ Tennessee</data>
+      <data key="numberofworks">118</data>
+    </node>
+    <node id="n23">
+      <data key="citationcount">126</data>
+      <data key="label">Triumf</data>
+      <data key="numberofworks">13</data>
+    </node>
+    <node id="n24">
+      <data key="citationcount">142</data>
+      <data key="label">Hamad Bin Khalifa Univ</data>
+      <data key="numberofworks">13</data>
+    </node>
+    <node id="n25">
+      <data key="citationcount">20</data>
+      <data key="label">Chiba Univ</data>
+      <data key="numberofworks">4</data>
+    </node>
+    <node id="n26">
+      <data key="citationcount">5</data>
+      <data key="label">Iu Ctr Explorat Energy &amp; Matter</data>
+      <data key="numberofworks">4</data>
+    </node>
+    <node id="n27">
+      <data key="citationcount">259</data>
+      <data key="label">Black Hills State Univ</data>
+      <data key="numberofworks">14</data>
+    </node>
+    <node id="n28">
+      <data key="citationcount">69</data>
+      <data key="label">Mcmaster Univ</data>
+      <data key="numberofworks">10</data>
+    </node>
+    <node id="n29">
+      <data key="citationcount">477</data>
+      <data key="label">Univ South Carolina</data>
+      <data key="numberofworks">30</data>
+    </node>
+    <node id="n30">
+      <data key="citationcount">101</data>
+      <data key="label">Griffith Univ</data>
+      <data key="numberofworks">5</data>
+    </node>
+    <node id="n31">
+      <data key="citationcount">156</data>
+      <data key="label">Rutgers State Univ</data>
+      <data key="numberofworks">21</data>
+    </node>
+    <node id="n32">
+      <data key="citationcount">464</data>
+      <data key="label">Joint Inst Nucl Res</data>
+      <data key="numberofworks">30</data>
+    </node>
+    <node id="n33">
+      <data key="citationcount">185</data>
+      <data key="label">Univ Arkansas</data>
+      <data key="numberofworks">11</data>
+    </node>
+    <node id="n34">
+      <data key="citationcount">343</data>
+      <data key="label">Univ South Dakota</data>
+      <data key="numberofworks">23</data>
+    </node>
+    <node id="n35">
+      <data key="citationcount">514</data>
+      <data key="label">Univ N Carolina</data>
+      <data key="numberofworks">41</data>
+    </node>
+    <node id="n36">
+      <data key="citationcount">79</data>
+      <data key="label">United Arab Emirates Univ</data>
+      <data key="numberofworks">12</data>
+    </node>
+    <node id="n37">
+      <data key="citationcount">489</data>
+      <data key="label">Vanderbilt Univ</data>
+      <data key="numberofworks">33</data>
+    </node>
+    <node id="n38">
+      <data key="citationcount">270</data>
+      <data key="label">Purdue Univ</data>
+      <data key="numberofworks">10</data>
+    </node>
+    <node id="n39">
+      <data key="citationcount">203</data>
+      <data key="label">Louisiana State Univ</data>
+      <data key="numberofworks">44</data>
+    </node>
+    <node id="n40">
+      <data key="citationcount">0</data>
+      <data key="label">Berea Coll</data>
+      <data key="numberofworks">11</data>
+    </node>
+    <node id="n41">
+      <data key="citationcount">172</data>
+      <data key="label">Tech Univ Munich</data>
+      <data key="numberofworks">6</data>
+    </node>
+    <node id="n42">
+      <data key="citationcount">619</data>
+      <data key="label">Univ Washington</data>
+      <data key="numberofworks">37</data>
+    </node>
+    <node id="n43">
+      <data key="citationcount">566</data>
+      <data key="label">Los Alamos Natl Lab</data>
+      <data key="numberofworks">43</data>
+    </node>
+    <node id="n44">
+      <data key="citationcount">122</data>
+      <data key="label">Umm Al Qura Univ</data>
+      <data key="numberofworks">22</data>
+    </node>
+    <node id="n45">
+      <data key="citationcount">82</data>
+      <data key="label">King Abdulaziz Univ</data>
+      <data key="numberofworks">13</data>
+    </node>
+    <node id="n46">
+      <data key="citationcount">140</data>
+      <data key="label">Univ Minnesota</data>
+      <data key="numberofworks">9</data>
+    </node>
+    <node id="n47">
+      <data key="citationcount">151</data>
+      <data key="label">Texas A&amp;m Univ Qatar</data>
+      <data key="numberofworks">21</data>
+    </node>
+    <node id="n48">
+      <data key="citationcount">71</data>
+      <data key="label">Univ Florida</data>
+      <data key="numberofworks">7</data>
+    </node>
+    <node id="n49">
+      <data key="citationcount">250</data>
+      <data key="label">Virginia Tech</data>
+      <data key="numberofworks">22</data>
+    </node>
+    <node id="n50">
+      <data key="citationcount">160</data>
+      <data key="label">Univ Notre Dame</data>
+      <data key="numberofworks">21</data>
+    </node>
+    <node id="n51">
+      <data key="citationcount">560</data>
+      <data key="label">North Carolina State Univ</data>
+      <data key="numberofworks">42</data>
+    </node>
+    <node id="n52">
+      <data key="citationcount">129</data>
+      <data key="label">Univ Georgia</data>
+      <data key="numberofworks">25</data>
+    </node>
+    <node id="n53">
+      <data key="citationcount">107</data>
+      <data key="label">Univ Warsaw</data>
+      <data key="numberofworks">8</data>
+    </node>
+    <node id="n54">
+      <data key="citationcount">57</data>
+      <data key="label">Benha Univ</data>
+      <data key="numberofworks">11</data>
+    </node>
+    <node id="n55">
+      <data key="citationcount">151</data>
+      <data key="label">Inst Laue Langevin</data>
+      <data key="numberofworks">7</data>
+    </node>
+    <node id="n56">
+      <data key="citationcount">21</data>
+      <data key="label">Suny Albany</data>
+      <data key="numberofworks">6</data>
+    </node>
+    <node id="n57">
+      <data key="citationcount">278</data>
+      <data key="label">Caltech</data>
+      <data key="numberofworks">20</data>
+    </node>
+    <node id="n58">
+      <data key="citationcount">10</data>
+      <data key="label">Univ North Texas</data>
+      <data key="numberofworks">9</data>
+    </node>
+    <node id="n59">
+      <data key="citationcount">216</data>
+      <data key="label">Michigan State Univ</data>
+      <data key="numberofworks">22</data>
+    </node>
+    <node id="n60">
+      <data key="citationcount">144</data>
+      <data key="label">Tennessee Tech</data>
+      <data key="numberofworks">19</data>
+    </node>
+    <node id="n61">
+      <data key="citationcount">26</data>
+      <data key="label">Oak Ridge Associated Univ</data>
+      <data key="numberofworks">11</data>
+    </node>
+    <node id="n62">
+      <data key="citationcount">47</data>
+      <data key="label">Univ Guelph</data>
+      <data key="numberofworks">8</data>
+    </node>
+    <node id="n63">
+      <data key="citationcount">221</data>
+      <data key="label">Ciemat</data>
+      <data key="numberofworks">12</data>
+    </node>
+    <node id="n64">
+      <data key="citationcount">86</data>
+      <data key="label">Int Femtosci Inc</data>
+      <data key="numberofworks">8</data>
+    </node>
+    <node id="n65">
+      <data key="citationcount">69</data>
+      <data key="label">Korea Inst Ind Technol</data>
+      <data key="numberofworks">5</data>
+    </node>
+    <node id="n66">
+      <data key="citationcount">363</data>
+      <data key="label">Mit</data>
+      <data key="numberofworks">15</data>
+    </node>
+    <node id="n67">
+      <data key="citationcount">173</data>
+      <data key="label">Univ Kentucky</data>
+      <data key="numberofworks">24</data>
+    </node>
+    <node id="n68">
+      <data key="citationcount">142</data>
+      <data key="label">Auburn Univ</data>
+      <data key="numberofworks">23</data>
+    </node>
+    <node id="n69">
+      <data key="citationcount">126</data>
+      <data key="label">Univ Illinois</data>
+      <data key="numberofworks">15</data>
+    </node>
+    <node id="n70">
+      <data key="citationcount">188</data>
+      <data key="label">Middle Tennessee State Univ</data>
+      <data key="numberofworks">25</data>
+    </node>
+    <node id="n71">
+      <data key="citationcount">318</data>
+      <data key="label">Max Planck Inst Phys &amp; Astrophys</data>
+      <data key="numberofworks">18</data>
+    </node>
+    <node id="n72">
+      <data key="citationcount">47</data>
+      <data key="label">Tennessee Wildlife Resources Agcy</data>
+      <data key="numberofworks">10</data>
+    </node>
+    <node id="n73">
+      <data key="citationcount">1139</data>
+      <data key="label">Babol Noshirvani Univ Technol</data>
+      <data key="numberofworks">12</data>
+    </node>
+    <node id="n74">
+      <data key="citationcount">104</data>
+      <data key="label">Penn State Univ</data>
+      <data key="numberofworks">10</data>
+    </node>
+    <node id="n75">
+      <data key="citationcount">209</data>
+      <data key="label">Florida Int Univ</data>
+      <data key="numberofworks">28</data>
+    </node>
+    <node id="n76">
+      <data key="citationcount">6</data>
+      <data key="label">Slac Natl Accelerator Lab</data>
+      <data key="numberofworks">5</data>
+    </node>
+    <node id="n77">
+      <data key="citationcount">11</data>
+      <data key="label">Williams Coll</data>
+      <data key="numberofworks">7</data>
+    </node>
+    <node id="n78">
+      <data key="citationcount">348</data>
+      <data key="label">Duke Univ</data>
+      <data key="numberofworks">25</data>
+    </node>
+    <node id="n79">
+      <data key="citationcount">65</data>
+      <data key="label">Colorado Sch Mines</data>
+      <data key="numberofworks">17</data>
+    </node>
+    <node id="n80">
+      <data key="citationcount">210</data>
+      <data key="label">Univ Alabama</data>
+      <data key="numberofworks">20</data>
+    </node>
+    <node id="n81">
+      <data key="citationcount">58</data>
+      <data key="label">Simon Fraser Univ</data>
+      <data key="numberofworks">9</data>
+    </node>
+    <node id="n82">
+      <data key="citationcount">36</data>
+      <data key="label">Northeastern Univ</data>
+      <data key="numberofworks">10</data>
+    </node>
+    <node id="n83">
+      <data key="citationcount">99</data>
+      <data key="label">Us Geol Survey</data>
+      <data key="numberofworks">18</data>
+    </node>
+    <node id="n84">
+      <data key="citationcount">362</data>
+      <data key="label">Osaka Univ</data>
+      <data key="numberofworks">24</data>
+    </node>
+    <node id="n85">
+      <data key="citationcount">26</data>
+      <data key="label">Univ Nebraska</data>
+      <data key="numberofworks">6</data>
+    </node>
+    <node id="n86">
+      <data key="citationcount">733</data>
+      <data key="label">Shanghai Jiao Tong Univ</data>
+      <data key="numberofworks">27</data>
+    </node>
+    <node id="n87">
+      <data key="citationcount">14</data>
+      <data key="label">Al Hussein Tech Univ</data>
+      <data key="numberofworks">5</data>
+    </node>
+    <node id="n88">
+      <data key="citationcount">482</data>
+      <data key="label">Carleton Univ</data>
+      <data key="numberofworks">16</data>
+    </node>
+    <node id="n89">
+      <data key="citationcount">109</data>
+      <data key="label">Inst Theoret &amp; Expt Phys</data>
+      <data key="numberofworks">8</data>
+    </node>
+    <node id="n90">
+      <data key="citationcount">136</data>
+      <data key="label">Univ Texas San Antonio</data>
+      <data key="numberofworks">15</data>
+    </node>
+    <node id="n91">
+      <data key="citationcount">61</data>
+      <data key="label">Indian Inst Technol</data>
+      <data key="numberofworks">12</data>
+    </node>
+    <node id="n92">
+      <data key="citationcount">0</data>
+      <data key="label">Sustainable Mt Agr Ctr</data>
+      <data key="numberofworks">11</data>
+    </node>
+    <node id="n93">
+      <data key="citationcount">520</data>
+      <data key="label">Univ Michigan</data>
+      <data key="numberofworks">9</data>
+    </node>
+    <node id="n94">
+      <data key="citationcount">1210</data>
+      <data key="label">Oak Ridge Natl Lab</data>
+      <data key="numberofworks">143</data>
+    </node>
+    <node id="n95">
+      <data key="citationcount">321</data>
+      <data key="label">Princeton Univ</data>
+      <data key="numberofworks">15</data>
+    </node>
+    <node id="n96">
+      <data key="citationcount">149</data>
+      <data key="label">Univ Maryland</data>
+      <data key="numberofworks">9</data>
+    </node>
+    <node id="n97">
+      <data key="citationcount">240</data>
+      <data key="label">Indiana Univ</data>
+      <data key="numberofworks">22</data>
+    </node>
+
+    <!-- edges -->
+    <edge id="e0" source="n51" target="n42">
+      <data key="coauthorships">54</data>
+      <data key="weight">54</data>
+    </edge>
+    <edge id="e1" source="n51" target="n18">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e2" source="n9" target="n3">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e3" source="n4" target="n42">
+      <data key="coauthorships">50</data>
+      <data key="weight">50</data>
+    </edge>
+    <edge id="e4" source="n51" target="n32">
+      <data key="coauthorships">29</data>
+      <data key="weight">29</data>
+    </edge>
+    <edge id="e5" source="n42" target="n1">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e6" source="n20" target="n27">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e7" source="n9" target="n48">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e8" source="n9" target="n11">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e9" source="n14" target="n50">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e10" source="n51" target="n71">
+      <data key="coauthorships">17</data>
+      <data key="weight">17</data>
+    </edge>
+    <edge id="e11" source="n6" target="n84">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e12" source="n9" target="n15">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e13" source="n4" target="n2">
+      <data key="coauthorships">23</data>
+      <data key="weight">23</data>
+    </edge>
+    <edge id="e14" source="n57" target="n13">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e15" source="n9" target="n36">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e16" source="n22" target="n78">
+      <data key="coauthorships">26</data>
+      <data key="weight">26</data>
+    </edge>
+    <edge id="e17" source="n9" target="n53">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e18" source="n95" target="n34">
+      <data key="coauthorships">15</data>
+      <data key="weight">15</data>
+    </edge>
+    <edge id="e19" source="n35" target="n34">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e20" source="n9" target="n83">
+      <data key="coauthorships">27</data>
+      <data key="weight">27</data>
+    </edge>
+    <edge id="e21" source="n78" target="n71">
+      <data key="coauthorships">17</data>
+      <data key="weight">17</data>
+    </edge>
+    <edge id="e22" source="n94" target="n57">
+      <data key="coauthorships">16</data>
+      <data key="weight">16</data>
+    </edge>
+    <edge id="e23" source="n22" target="n63">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e24" source="n9" target="n12">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e25" source="n4" target="n34">
+      <data key="coauthorships">25</data>
+      <data key="weight">25</data>
+    </edge>
+    <edge id="e26" source="n37" target="n38">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e27" source="n43" target="n18">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e28" source="n9" target="n27">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e29" source="n9" target="n43">
+      <data key="coauthorships">43</data>
+      <data key="weight">43</data>
+    </edge>
+    <edge id="e30" source="n18" target="n11">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e31" source="n39" target="n50">
+      <data key="coauthorships">15</data>
+      <data key="weight">15</data>
+    </edge>
+    <edge id="e32" source="n95" target="n84">
+      <data key="coauthorships">16</data>
+      <data key="weight">16</data>
+    </edge>
+    <edge id="e33" source="n29" target="n84">
+      <data key="coauthorships">27</data>
+      <data key="weight">27</data>
+    </edge>
+    <edge id="e34" source="n9" target="n20">
+      <data key="coauthorships">28</data>
+      <data key="weight">28</data>
+    </edge>
+    <edge id="e35" source="n34" target="n18">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e36" source="n43" target="n20">
+      <data key="coauthorships">26</data>
+      <data key="weight">26</data>
+    </edge>
+    <edge id="e37" source="n9" target="n47">
+      <data key="coauthorships">23</data>
+      <data key="weight">23</data>
+    </edge>
+    <edge id="e38" source="n4" target="n20">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e39" source="n51" target="n43">
+      <data key="coauthorships">35</data>
+      <data key="weight">35</data>
+    </edge>
+    <edge id="e40" source="n51" target="n29">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e41" source="n43" target="n27">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e42" source="n9" target="n52">
+      <data key="coauthorships">31</data>
+      <data key="weight">31</data>
+    </edge>
+    <edge id="e43" source="n20" target="n11">
+      <data key="coauthorships">20</data>
+      <data key="weight">20</data>
+    </edge>
+    <edge id="e44" source="n94" target="n61">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e45" source="n94" target="n63">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e46" source="n94" target="n6">
+      <data key="coauthorships">20</data>
+      <data key="weight">20</data>
+    </edge>
+    <edge id="e47" source="n94" target="n43">
+      <data key="coauthorships">40</data>
+      <data key="weight">40</data>
+    </edge>
+    <edge id="e48" source="n42" target="n18">
+      <data key="coauthorships">26</data>
+      <data key="weight">26</data>
+    </edge>
+    <edge id="e49" source="n51" target="n13">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e50" source="n9" target="n68">
+      <data key="coauthorships">27</data>
+      <data key="weight">27</data>
+    </edge>
+    <edge id="e51" source="n4" target="n29">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e52" source="n22" target="n39">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e53" source="n95" target="n43">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e54" source="n43" target="n29">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e55" source="n9" target="n33">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e56" source="n6" target="n71">
+      <data key="coauthorships">17</data>
+      <data key="weight">17</data>
+    </edge>
+    <edge id="e57" source="n43" target="n42">
+      <data key="coauthorships">59</data>
+      <data key="weight">59</data>
+    </edge>
+    <edge id="e58" source="n32" target="n63">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e59" source="n9" target="n40">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e60" source="n20" target="n34">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e61" source="n43" target="n32">
+      <data key="coauthorships">30</data>
+      <data key="weight">30</data>
+    </edge>
+    <edge id="e62" source="n2" target="n27">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e63" source="n94" target="n27">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e64" source="n9" target="n90">
+      <data key="coauthorships">15</data>
+      <data key="weight">15</data>
+    </edge>
+    <edge id="e65" source="n42" target="n11">
+      <data key="coauthorships">42</data>
+      <data key="weight">42</data>
+    </edge>
+    <edge id="e66" source="n94" target="n14">
+      <data key="coauthorships">15</data>
+      <data key="weight">15</data>
+    </edge>
+    <edge id="e67" source="n27" target="n11">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e68" source="n20" target="n84">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e69" source="n9" target="n97">
+      <data key="coauthorships">27</data>
+      <data key="weight">27</data>
+    </edge>
+    <edge id="e70" source="n6" target="n2">
+      <data key="coauthorships">19</data>
+      <data key="weight">19</data>
+    </edge>
+    <edge id="e71" source="n32" target="n13">
+      <data key="coauthorships">25</data>
+      <data key="weight">25</data>
+    </edge>
+    <edge id="e72" source="n9" target="n65">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e73" source="n4" target="n78">
+      <data key="coauthorships">25</data>
+      <data key="weight">25</data>
+    </edge>
+    <edge id="e74" source="n67" target="n62">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e75" source="n51" target="n35">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e76" source="n35" target="n29">
+      <data key="coauthorships">23</data>
+      <data key="weight">23</data>
+    </edge>
+    <edge id="e77" source="n9" target="n0">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e78" source="n13" target="n71">
+      <data key="coauthorships">20</data>
+      <data key="weight">20</data>
+    </edge>
+    <edge id="e79" source="n22" target="n66">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e80" source="n35" target="n63">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e81" source="n9" target="n72">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e82" source="n6" target="n34">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e83" source="n22" target="n31">
+      <data key="coauthorships">18</data>
+      <data key="weight">18</data>
+    </edge>
+    <edge id="e84" source="n2" target="n18">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e85" source="n42" target="n20">
+      <data key="coauthorships">49</data>
+      <data key="weight">49</data>
+    </edge>
+    <edge id="e86" source="n9" target="n91">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e87" source="n42" target="n66">
+      <data key="coauthorships">18</data>
+      <data key="weight">18</data>
+    </edge>
+    <edge id="e88" source="n22" target="n50">
+      <data key="coauthorships">19</data>
+      <data key="weight">19</data>
+    </edge>
+    <edge id="e89" source="n95" target="n35">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e90" source="n32" target="n84">
+      <data key="coauthorships">26</data>
+      <data key="weight">26</data>
+    </edge>
+    <edge id="e91" source="n22" target="n29">
+      <data key="coauthorships">31</data>
+      <data key="weight">31</data>
+    </edge>
+    <edge id="e92" source="n20" target="n18">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e93" source="n9" target="n13">
+      <data key="coauthorships">28</data>
+      <data key="weight">28</data>
+    </edge>
+    <edge id="e94" source="n22" target="n41">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e95" source="n9" target="n82">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e96" source="n42" target="n89">
+      <data key="coauthorships">16</data>
+      <data key="weight">16</data>
+    </edge>
+    <edge id="e97" source="n43" target="n57">
+      <data key="coauthorships">18</data>
+      <data key="weight">18</data>
+    </edge>
+    <edge id="e98" source="n1" target="n84">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e99" source="n34" target="n27">
+      <data key="coauthorships">15</data>
+      <data key="weight">15</data>
+    </edge>
+    <edge id="e100" source="n9" target="n42">
+      <data key="coauthorships">63</data>
+      <data key="weight">63</data>
+    </edge>
+    <edge id="e101" source="n29" target="n11">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e102" source="n31" target="n61">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e103" source="n42" target="n63">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e104" source="n6" target="n13">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e105" source="n35" target="n42">
+      <data key="coauthorships">52</data>
+      <data key="weight">52</data>
+    </edge>
+    <edge id="e106" source="n2" target="n84">
+      <data key="coauthorships">25</data>
+      <data key="weight">25</data>
+    </edge>
+    <edge id="e107" source="n22" target="n51">
+      <data key="coauthorships">29</data>
+      <data key="weight">29</data>
+    </edge>
+    <edge id="e108" source="n9" target="n22">
+      <data key="coauthorships">150</data>
+      <data key="weight">150</data>
+    </edge>
+    <edge id="e109" source="n94" target="n29">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e110" source="n94" target="n1">
+      <data key="coauthorships">17</data>
+      <data key="weight">17</data>
+    </edge>
+    <edge id="e111" source="n95" target="n4">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e112" source="n35" target="n84">
+      <data key="coauthorships">27</data>
+      <data key="weight">27</data>
+    </edge>
+    <edge id="e113" source="n9" target="n38">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e114" source="n94" target="n71">
+      <data key="coauthorships">18</data>
+      <data key="weight">18</data>
+    </edge>
+    <edge id="e115" source="n67" target="n97">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e116" source="n51" target="n63">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e117" source="n9" target="n24">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e118" source="n94" target="n34">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e119" source="n22" target="n2">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e120" source="n35" target="n18">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e121" source="n13" target="n27">
+      <data key="coauthorships">15</data>
+      <data key="weight">15</data>
+    </edge>
+    <edge id="e122" source="n9" target="n56">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e123" source="n43" target="n11">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e124" source="n9" target="n79">
+      <data key="coauthorships">17</data>
+      <data key="weight">17</data>
+    </edge>
+    <edge id="e125" source="n32" target="n11">
+      <data key="coauthorships">19</data>
+      <data key="weight">19</data>
+    </edge>
+    <edge id="e126" source="n89" target="n84">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e127" source="n39" target="n52">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e128" source="n29" target="n18">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e129" source="n94" target="n20">
+      <data key="coauthorships">26</data>
+      <data key="weight">26</data>
+    </edge>
+    <edge id="e130" source="n9" target="n49">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e131" source="n22" target="n20">
+      <data key="coauthorships">23</data>
+      <data key="weight">23</data>
+    </edge>
+    <edge id="e132" source="n43" target="n97">
+      <data key="coauthorships">23</data>
+      <data key="weight">23</data>
+    </edge>
+    <edge id="e133" source="n51" target="n34">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e134" source="n35" target="n32">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e135" source="n9" target="n14">
+      <data key="coauthorships">15</data>
+      <data key="weight">15</data>
+    </edge>
+    <edge id="e136" source="n35" target="n71">
+      <data key="coauthorships">18</data>
+      <data key="weight">18</data>
+    </edge>
+    <edge id="e137" source="n39" target="n31">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e138" source="n2" target="n63">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e139" source="n6" target="n78">
+      <data key="coauthorships">19</data>
+      <data key="weight">19</data>
+    </edge>
+    <edge id="e140" source="n94" target="n50">
+      <data key="coauthorships">23</data>
+      <data key="weight">23</data>
+    </edge>
+    <edge id="e141" source="n78" target="n18">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e142" source="n94" target="n35">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e143" source="n9" target="n58">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e144" source="n4" target="n13">
+      <data key="coauthorships">26</data>
+      <data key="weight">26</data>
+    </edge>
+    <edge id="e145" source="n94" target="n53">
+      <data key="coauthorships">18</data>
+      <data key="weight">18</data>
+    </edge>
+    <edge id="e146" source="n95" target="n78">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e147" source="n43" target="n34">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e148" source="n22" target="n94">
+      <data key="coauthorships">99</data>
+      <data key="weight">99</data>
+    </edge>
+    <edge id="e149" source="n34" target="n71">
+      <data key="coauthorships">19</data>
+      <data key="weight">19</data>
+    </edge>
+    <edge id="e150" source="n94" target="n42">
+      <data key="coauthorships">58</data>
+      <data key="weight">58</data>
+    </edge>
+    <edge id="e151" source="n51" target="n66">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e152" source="n40" target="n92">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e153" source="n42" target="n13">
+      <data key="coauthorships">54</data>
+      <data key="weight">54</data>
+    </edge>
+    <edge id="e154" source="n9" target="n32">
+      <data key="coauthorships">30</data>
+      <data key="weight">30</data>
+    </edge>
+    <edge id="e155" source="n29" target="n1">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e156" source="n78" target="n27">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e157" source="n9" target="n19">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e158" source="n84" target="n11">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e159" source="n22" target="n14">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e160" source="n95" target="n71">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e161" source="n34" target="n84">
+      <data key="coauthorships">28</data>
+      <data key="weight">28</data>
+    </edge>
+    <edge id="e162" source="n12" target="n10">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e163" source="n4" target="n18">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e164" source="n22" target="n97">
+      <data key="coauthorships">16</data>
+      <data key="weight">16</data>
+    </edge>
+    <edge id="e165" source="n9" target="n30">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e166" source="n94" target="n78">
+      <data key="coauthorships">25</data>
+      <data key="weight">25</data>
+    </edge>
+    <edge id="e167" source="n67" target="n23">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e168" source="n95" target="n27">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e169" source="n35" target="n20">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e170" source="n47" target="n21">
+      <data key="coauthorships">15</data>
+      <data key="weight">15</data>
+    </edge>
+    <edge id="e171" source="n2" target="n71">
+      <data key="coauthorships">18</data>
+      <data key="weight">18</data>
+    </edge>
+    <edge id="e172" source="n94" target="n97">
+      <data key="coauthorships">20</data>
+      <data key="weight">20</data>
+    </edge>
+    <edge id="e173" source="n43" target="n63">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e174" source="n9" target="n73">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e175" source="n13" target="n34">
+      <data key="coauthorships">26</data>
+      <data key="weight">26</data>
+    </edge>
+    <edge id="e176" source="n22" target="n4">
+      <data key="coauthorships">26</data>
+      <data key="weight">26</data>
+    </edge>
+    <edge id="e177" source="n43" target="n2">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e178" source="n9" target="n84">
+      <data key="coauthorships">28</data>
+      <data key="weight">28</data>
+    </edge>
+    <edge id="e179" source="n9" target="n85">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e180" source="n4" target="n11">
+      <data key="coauthorships">23</data>
+      <data key="weight">23</data>
+    </edge>
+    <edge id="e181" source="n39" target="n79">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e182" source="n95" target="n22">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e183" source="n4" target="n84">
+      <data key="coauthorships">28</data>
+      <data key="weight">28</data>
+    </edge>
+    <edge id="e184" source="n9" target="n78">
+      <data key="coauthorships">27</data>
+      <data key="weight">27</data>
+    </edge>
+    <edge id="e185" source="n22" target="n18">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e186" source="n97" target="n55">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e187" source="n42" target="n26">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e188" source="n9" target="n17">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e189" source="n20" target="n13">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e190" source="n51" target="n57">
+      <data key="coauthorships">20</data>
+      <data key="weight">20</data>
+    </edge>
+    <edge id="e191" source="n51" target="n4">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e192" source="n84" target="n27">
+      <data key="coauthorships">17</data>
+      <data key="weight">17</data>
+    </edge>
+    <edge id="e193" source="n9" target="n93">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e194" source="n22" target="n11">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e195" source="n39" target="n61">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e196" source="n29" target="n63">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e197" source="n6" target="n29">
+      <data key="coauthorships">20</data>
+      <data key="weight">20</data>
+    </edge>
+    <edge id="e198" source="n94" target="n66">
+      <data key="coauthorships">15</data>
+      <data key="weight">15</data>
+    </edge>
+    <edge id="e199" source="n94" target="n2">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e200" source="n43" target="n13">
+      <data key="coauthorships">26</data>
+      <data key="weight">26</data>
+    </edge>
+    <edge id="e201" source="n9" target="n16">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e202" source="n29" target="n13">
+      <data key="coauthorships">27</data>
+      <data key="weight">27</data>
+    </edge>
+    <edge id="e203" source="n53" target="n1">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e204" source="n95" target="n94">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e205" source="n43" target="n4">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e206" source="n9" target="n6">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e207" source="n9" target="n71">
+      <data key="coauthorships">18</data>
+      <data key="weight">18</data>
+    </edge>
+    <edge id="e208" source="n42" target="n32">
+      <data key="coauthorships">53</data>
+      <data key="weight">53</data>
+    </edge>
+    <edge id="e209" source="n71" target="n63">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e210" source="n9" target="n5">
+      <data key="coauthorships">18</data>
+      <data key="weight">18</data>
+    </edge>
+    <edge id="e211" source="n78" target="n34">
+      <data key="coauthorships">25</data>
+      <data key="weight">25</data>
+    </edge>
+    <edge id="e212" source="n67" target="n43">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e213" source="n51" target="n2">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e214" source="n29" target="n27">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e215" source="n9" target="n39">
+      <data key="coauthorships">48</data>
+      <data key="weight">48</data>
+    </edge>
+    <edge id="e216" source="n78" target="n11">
+      <data key="coauthorships">20</data>
+      <data key="weight">20</data>
+    </edge>
+    <edge id="e217" source="n31" target="n50">
+      <data key="coauthorships">16</data>
+      <data key="weight">16</data>
+    </edge>
+    <edge id="e218" source="n51" target="n11">
+      <data key="coauthorships">19</data>
+      <data key="weight">19</data>
+    </edge>
+    <edge id="e219" source="n78" target="n84">
+      <data key="coauthorships">28</data>
+      <data key="weight">28</data>
+    </edge>
+    <edge id="e220" source="n44" target="n45">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e221" source="n6" target="n18">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e222" source="n51" target="n20">
+      <data key="coauthorships">26</data>
+      <data key="weight">26</data>
+    </edge>
+    <edge id="e223" source="n9" target="n67">
+      <data key="coauthorships">28</data>
+      <data key="weight">28</data>
+    </edge>
+    <edge id="e224" source="n78" target="n13">
+      <data key="coauthorships">26</data>
+      <data key="weight">26</data>
+    </edge>
+    <edge id="e225" source="n9" target="n23">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e226" source="n51" target="n84">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e227" source="n35" target="n4">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e228" source="n9" target="n59">
+      <data key="coauthorships">29</data>
+      <data key="weight">29</data>
+    </edge>
+    <edge id="e229" source="n18" target="n71">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e230" source="n14" target="n79">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e231" source="n20" target="n63">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e232" source="n9" target="n7">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e233" source="n42" target="n6">
+      <data key="coauthorships">42</data>
+      <data key="weight">42</data>
+    </edge>
+    <edge id="e234" source="n94" target="n59">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e235" source="n35" target="n2">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e236" source="n67" target="n42">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e237" source="n9" target="n94">
+      <data key="coauthorships">209</data>
+      <data key="weight">209</data>
+    </edge>
+    <edge id="e238" source="n66" target="n13">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e239" source="n22" target="n79">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e240" source="n95" target="n42">
+      <data key="coauthorships">28</data>
+      <data key="weight">28</data>
+    </edge>
+    <edge id="e241" source="n43" target="n84">
+      <data key="coauthorships">27</data>
+      <data key="weight">27</data>
+    </edge>
+    <edge id="e242" source="n37" target="n8">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e243" source="n20" target="n71">
+      <data key="coauthorships">16</data>
+      <data key="weight">16</data>
+    </edge>
+    <edge id="e244" source="n42" target="n57">
+      <data key="coauthorships">26</data>
+      <data key="weight">26</data>
+    </edge>
+    <edge id="e245" source="n42" target="n41">
+      <data key="coauthorships">18</data>
+      <data key="weight">18</data>
+    </edge>
+    <edge id="e246" source="n9" target="n37">
+      <data key="coauthorships">47</data>
+      <data key="weight">47</data>
+    </edge>
+    <edge id="e247" source="n42" target="n29">
+      <data key="coauthorships">51</data>
+      <data key="weight">51</data>
+    </edge>
+    <edge id="e248" source="n57" target="n32">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e249" source="n1" target="n34">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e250" source="n42" target="n27">
+      <data key="coauthorships">28</data>
+      <data key="weight">28</data>
+    </edge>
+    <edge id="e251" source="n9" target="n96">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e252" source="n6" target="n11">
+      <data key="coauthorships">19</data>
+      <data key="weight">19</data>
+    </edge>
+    <edge id="e253" source="n22" target="n61">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e254" source="n27" target="n71">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e255" source="n6" target="n32">
+      <data key="coauthorships">19</data>
+      <data key="weight">19</data>
+    </edge>
+    <edge id="e256" source="n9" target="n46">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e257" source="n84" target="n18">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e258" source="n22" target="n57">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e259" source="n9" target="n80">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e260" source="n94" target="n13">
+      <data key="coauthorships">25</data>
+      <data key="weight">25</data>
+    </edge>
+    <edge id="e261" source="n9" target="n1">
+      <data key="coauthorships">15</data>
+      <data key="weight">15</data>
+    </edge>
+    <edge id="e262" source="n95" target="n13">
+      <data key="coauthorships">15</data>
+      <data key="weight">15</data>
+    </edge>
+    <edge id="e263" source="n35" target="n6">
+      <data key="coauthorships">20</data>
+      <data key="weight">20</data>
+    </edge>
+    <edge id="e264" source="n9" target="n45">
+      <data key="coauthorships">17</data>
+      <data key="weight">17</data>
+    </edge>
+    <edge id="e265" source="n42" target="n71">
+      <data key="coauthorships">38</data>
+      <data key="weight">38</data>
+    </edge>
+    <edge id="e266" source="n67" target="n51">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e267" source="n84" target="n63">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e268" source="n9" target="n88">
+      <data key="coauthorships">17</data>
+      <data key="weight">17</data>
+    </edge>
+    <edge id="e269" source="n29" target="n34">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e270" source="n9" target="n2">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e271" source="n13" target="n18">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e272" source="n32" target="n27">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e273" source="n9" target="n21">
+      <data key="coauthorships">49</data>
+      <data key="weight">49</data>
+    </edge>
+    <edge id="e274" source="n13" target="n11">
+      <data key="coauthorships">23</data>
+      <data key="weight">23</data>
+    </edge>
+    <edge id="e275" source="n50" target="n79">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e276" source="n95" target="n51">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e277" source="n94" target="n84">
+      <data key="coauthorships">27</data>
+      <data key="weight">27</data>
+    </edge>
+    <edge id="e278" source="n78" target="n20">
+      <data key="coauthorships">25</data>
+      <data key="weight">25</data>
+    </edge>
+    <edge id="e279" source="n2" target="n34">
+      <data key="coauthorships">23</data>
+      <data key="weight">23</data>
+    </edge>
+    <edge id="e280" source="n20" target="n97">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e281" source="n60" target="n49">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e282" source="n29" target="n20">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e283" source="n51" target="n97">
+      <data key="coauthorships">26</data>
+      <data key="weight">26</data>
+    </edge>
+    <edge id="e284" source="n51" target="n78">
+      <data key="coauthorships">25</data>
+      <data key="weight">25</data>
+    </edge>
+    <edge id="e285" source="n35" target="n27">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e286" source="n9" target="n74">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e287" source="n71" target="n11">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e288" source="n39" target="n14">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e289" source="n34" target="n63">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e290" source="n22" target="n6">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e291" source="n94" target="n4">
+      <data key="coauthorships">29</data>
+      <data key="weight">29</data>
+    </edge>
+    <edge id="e292" source="n42" target="n2">
+      <data key="coauthorships">46</data>
+      <data key="weight">46</data>
+    </edge>
+    <edge id="e293" source="n22" target="n35">
+      <data key="coauthorships">25</data>
+      <data key="weight">25</data>
+    </edge>
+    <edge id="e294" source="n9" target="n8">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e295" source="n4" target="n32">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e296" source="n22" target="n53">
+      <data key="coauthorships">18</data>
+      <data key="weight">18</data>
+    </edge>
+    <edge id="e297" source="n95" target="n32">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e298" source="n43" target="n78">
+      <data key="coauthorships">25</data>
+      <data key="weight">25</data>
+    </edge>
+    <edge id="e299" source="n37" target="n22">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e300" source="n29" target="n71">
+      <data key="coauthorships">18</data>
+      <data key="weight">18</data>
+    </edge>
+    <edge id="e301" source="n42" target="n97">
+      <data key="coauthorships">28</data>
+      <data key="weight">28</data>
+    </edge>
+    <edge id="e302" source="n32" target="n18">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e303" source="n9" target="n92">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e304" source="n42" target="n34">
+      <data key="coauthorships">50</data>
+      <data key="weight">50</data>
+    </edge>
+    <edge id="e305" source="n97" target="n32">
+      <data key="coauthorships">17</data>
+      <data key="weight">17</data>
+    </edge>
+    <edge id="e306" source="n1" target="n13">
+      <data key="coauthorships">18</data>
+      <data key="weight">18</data>
+    </edge>
+    <edge id="e307" source="n22" target="n27">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e308" source="n9" target="n28">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e309" source="n94" target="n11">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e310" source="n14" target="n31">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e311" source="n32" target="n71">
+      <data key="coauthorships">17</data>
+      <data key="weight">17</data>
+    </edge>
+    <edge id="e312" source="n42" target="n84">
+      <data key="coauthorships">56</data>
+      <data key="weight">56</data>
+    </edge>
+    <edge id="e313" source="n45" target="n54">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e314" source="n9" target="n18">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e315" source="n22" target="n32">
+      <data key="coauthorships">26</data>
+      <data key="weight">26</data>
+    </edge>
+    <edge id="e316" source="n9" target="n95">
+      <data key="coauthorships">15</data>
+      <data key="weight">15</data>
+    </edge>
+    <edge id="e317" source="n29" target="n78">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e318" source="n67" target="n81">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e319" source="n95" target="n2">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e320" source="n35" target="n78">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e321" source="n9" target="n50">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e322" source="n43" target="n71">
+      <data key="coauthorships">18</data>
+      <data key="weight">18</data>
+    </edge>
+    <edge id="e323" source="n51" target="n94">
+      <data key="coauthorships">35</data>
+      <data key="weight">35</data>
+    </edge>
+    <edge id="e324" source="n13" target="n63">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e325" source="n9" target="n86">
+      <data key="coauthorships">33</data>
+      <data key="weight">33</data>
+    </edge>
+    <edge id="e326" source="n32" target="n34">
+      <data key="coauthorships">23</data>
+      <data key="weight">23</data>
+    </edge>
+    <edge id="e327" source="n94" target="n31">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e328" source="n2" target="n13">
+      <data key="coauthorships">25</data>
+      <data key="weight">25</data>
+    </edge>
+    <edge id="e329" source="n9" target="n34">
+      <data key="coauthorships">24</data>
+      <data key="weight">24</data>
+    </edge>
+    <edge id="e330" source="n9" target="n35">
+      <data key="coauthorships">43</data>
+      <data key="weight">43</data>
+    </edge>
+    <edge id="e331" source="n35" target="n11">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e332" source="n22" target="n59">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e333" source="n95" target="n6">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e334" source="n13" target="n84">
+      <data key="coauthorships">29</data>
+      <data key="weight">29</data>
+    </edge>
+    <edge id="e335" source="n9" target="n29">
+      <data key="coauthorships">29</data>
+      <data key="weight">29</data>
+    </edge>
+    <edge id="e336" source="n20" target="n2">
+      <data key="coauthorships">20</data>
+      <data key="weight">20</data>
+    </edge>
+    <edge id="e337" source="n20" target="n32">
+      <data key="coauthorships">23</data>
+      <data key="weight">23</data>
+    </edge>
+    <edge id="e338" source="n42" target="n76">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e339" source="n9" target="n25">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e340" source="n42" target="n78">
+      <data key="coauthorships">50</data>
+      <data key="weight">50</data>
+    </edge>
+    <edge id="e341" source="n57" target="n97">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e342" source="n51" target="n27">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e343" source="n6" target="n27">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e344" source="n49" target="n87">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e345" source="n34" target="n11">
+      <data key="coauthorships">23</data>
+      <data key="weight">23</data>
+    </edge>
+    <edge id="e346" source="n9" target="n61">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e347" source="n4" target="n63">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e348" source="n4" target="n6">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e349" source="n9" target="n66">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e350" source="n94" target="n18">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e351" source="n22" target="n13">
+      <data key="coauthorships">27</data>
+      <data key="weight">27</data>
+    </edge>
+    <edge id="e352" source="n9" target="n75">
+      <data key="coauthorships">29</data>
+      <data key="weight">29</data>
+    </edge>
+    <edge id="e353" source="n29" target="n32">
+      <data key="coauthorships">23</data>
+      <data key="weight">23</data>
+    </edge>
+    <edge id="e354" source="n22" target="n1">
+      <data key="coauthorships">17</data>
+      <data key="weight">17</data>
+    </edge>
+    <edge id="e355" source="n95" target="n29">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e356" source="n35" target="n43">
+      <data key="coauthorships">23</data>
+      <data key="weight">23</data>
+    </edge>
+    <edge id="e357" source="n9" target="n69">
+      <data key="coauthorships">19</data>
+      <data key="weight">19</data>
+    </edge>
+    <edge id="e358" source="n84" target="n71">
+      <data key="coauthorships">19</data>
+      <data key="weight">19</data>
+    </edge>
+    <edge id="e359" source="n94" target="n32">
+      <data key="coauthorships">28</data>
+      <data key="weight">28</data>
+    </edge>
+    <edge id="e360" source="n9" target="n63">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e361" source="n9" target="n70">
+      <data key="coauthorships">26</data>
+      <data key="weight">26</data>
+    </edge>
+    <edge id="e362" source="n22" target="n34">
+      <data key="coauthorships">25</data>
+      <data key="weight">25</data>
+    </edge>
+    <edge id="e363" source="n22" target="n43">
+      <data key="coauthorships">35</data>
+      <data key="weight">35</data>
+    </edge>
+    <edge id="e364" source="n2" target="n32">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e365" source="n4" target="n27">
+      <data key="coauthorships">14</data>
+      <data key="weight">14</data>
+    </edge>
+    <edge id="e366" source="n9" target="n4">
+      <data key="coauthorships">28</data>
+      <data key="weight">28</data>
+    </edge>
+    <edge id="e367" source="n2" target="n11">
+      <data key="coauthorships">21</data>
+      <data key="weight">21</data>
+    </edge>
+    <edge id="e368" source="n94" target="n79">
+      <data key="coauthorships">15</data>
+      <data key="weight">15</data>
+    </edge>
+    <edge id="e369" source="n95" target="n11">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e370" source="n22" target="n84">
+      <data key="coauthorships">28</data>
+      <data key="weight">28</data>
+    </edge>
+    <edge id="e371" source="n9" target="n54">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e372" source="n29" target="n2">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e373" source="n57" target="n20">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e374" source="n9" target="n44">
+      <data key="coauthorships">25</data>
+      <data key="weight">25</data>
+    </edge>
+    <edge id="e375" source="n78" target="n32">
+      <data key="coauthorships">23</data>
+      <data key="weight">23</data>
+    </edge>
+    <edge id="e376" source="n9" target="n81">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e377" source="n51" target="n6">
+      <data key="coauthorships">18</data>
+      <data key="weight">18</data>
+    </edge>
+    <edge id="e378" source="n35" target="n13">
+      <data key="coauthorships">25</data>
+      <data key="weight">25</data>
+    </edge>
+    <edge id="e379" source="n9" target="n31">
+      <data key="coauthorships">22</data>
+      <data key="weight">22</data>
+    </edge>
+    <edge id="e380" source="n4" target="n71">
+      <data key="coauthorships">19</data>
+      <data key="weight">19</data>
+    </edge>
+    <edge id="e381" source="n31" target="n79">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e382" source="n78" target="n63">
+      <data key="coauthorships">13</data>
+      <data key="weight">13</data>
+    </edge>
+    <edge id="e383" source="n9" target="n64">
+      <data key="coauthorships">10</data>
+      <data key="weight">10</data>
+    </edge>
+    <edge id="e384" source="n6" target="n20">
+      <data key="coauthorships">18</data>
+      <data key="weight">18</data>
+    </edge>
+    <edge id="e385" source="n59" target="n50">
+      <data key="coauthorships">11</data>
+      <data key="weight">11</data>
+    </edge>
+    <edge id="e386" source="n78" target="n2">
+      <data key="coauthorships">23</data>
+      <data key="weight">23</data>
+    </edge>
+    <edge id="e387" source="n22" target="n42">
+      <data key="coauthorships">57</data>
+      <data key="weight">57</data>
+    </edge>
+    <edge id="e388" source="n9" target="n51">
+      <data key="coauthorships">46</data>
+      <data key="weight">46</data>
+    </edge>
+    <edge id="e389" source="n42" target="n77">
+      <data key="coauthorships">16</data>
+      <data key="weight">16</data>
+    </edge>
+    <edge id="e390" source="n94" target="n39">
+      <data key="coauthorships">25</data>
+      <data key="weight">25</data>
+    </edge>
+    <edge id="e391" source="n95" target="n20">
+      <data key="coauthorships">12</data>
+      <data key="weight">12</data>
+    </edge>
+    <edge id="e392" source="n43" target="n6">
+      <data key="coauthorships">20</data>
+      <data key="weight">20</data>
+    </edge>
+    <edge id="e393" source="n9" target="n57">
+      <data key="coauthorships">19</data>
+      <data key="weight">19</data>
+    </edge>
+    <edge id="e394" source="n22" target="n71">
+      <data key="coauthorships">19</data>
+      <data key="weight">19</data>
+    </edge>
+  </graph>
+</graphml>
